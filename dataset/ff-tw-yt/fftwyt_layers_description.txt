@@ -1,0 +1,5 @@
+layerID layerLabel
+0 yt(YouTube,UNDIRECTED)
+1 ff(FriendFeed,DIRECTED)
+2 tw(Twitter,DIRECTED)
+
